@@ -23,5 +23,6 @@ In Chrome, choose Window > Extensions.  Drag LugenTrump.crx into the page that a
 
 Credit
 ------
+Released by [@glowingrec](https://twitter.com/glowingrec)
 
 Based on [Cloud to Butt](https://github.com/panicsteve/cloud-to-butt) by [panicsteve](https://github.com/panicsteve)
