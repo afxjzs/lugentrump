@@ -1,0 +1,15 @@
+{
+	"manifest_version": 2,
+	"name": "LugenTrump",
+	"version": "1.0",
+	"description": "Replaces the text 'Fake News' with 'Lugenpresse'.",
+	"content_scripts":
+	[
+		{
+			"matches": ["*://*/*"],
+			"js": ["content_script.js"],
+			"run_at": "document_end"
+		}
+	]
+}
+
